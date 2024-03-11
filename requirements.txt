@@ -1,0 +1,8 @@
+flask
+pillow
+gunicorn
+requests
+flask-cors
+pytz
+pdf2image 
+PyMuPDF
